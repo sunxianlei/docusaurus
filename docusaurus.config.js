@@ -79,6 +79,10 @@ const config = {
             label: 'Develop',
           },
           {
+            type: 'docsVersionDropdown',
+            position: 'right',
+          },
+          {
             type: 'localeDropdown',
             position: 'right',
           },
